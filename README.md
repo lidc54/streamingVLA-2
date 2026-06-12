@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Feedback-Aware Streaming VLA" src="docs/imgs/logo.png" width="12%">
+  <img alt="Feedback-Aware Streaming VLA" src="docs/imgs/logo.png" width="30%">
 </p>
 
 <div align="center">
@@ -21,7 +21,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="docs/imgs/framework.png" alt="framework" title="Framework of Feedback-Aware Streaming VLA" width="40%"/>
+        <img src="docs/imgs/framework.png" alt="framework" title="Framework of Feedback-Aware Streaming VLA" width="90%"/>
       </td>
     </tr>
   </table>
@@ -75,7 +75,7 @@ As a result, the next inference step can start before the newest observed state 
 
 <div align="center">
   <p><strong>Anticipatory inference hides state-synchronization latency.</strong></p>
-  <img src="docs/imgs/efficiency_ablation.png" alt="efficiency_ablation" title="Anticipatory inference" width="70%">
+  <img src="docs/imgs/efficiency_ablation.png" alt="efficiency_ablation" title="Anticipatory inference" width="90%">
 </div>
 
 This design does not require changing the full VLA backbone.
